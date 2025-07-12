@@ -1,4 +1,5 @@
 # Privacy-first AI interfaces
+![license](https://img.shields.io/github/license/libre-webui/libre-webui)
 
 Building production-ready web interfaces for local AI models. 
 
