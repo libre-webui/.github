@@ -12,4 +12,4 @@ Building production-ready web interfaces for local AI models.
 
 **Libre WebUI** - Sophisticated interface for Ollama with intelligent persona framework
 
-[librewebui.org](https://librewebui.org) • [Documentation](https://github.com/libre-webui/libre-webui/tree/main/docs)
+[librewebui.org](https://librewebui.org) • [Documentation](https://docs.librewebui.org)
